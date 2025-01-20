@@ -38,12 +38,16 @@ public class Y {
         String title = driver.getTitle();
         Assert.assertEquals(title, "OrangeHRM");
 
-        driver.close();
+        driver.quit();
 
 
 
 //**********
 // jhgvbj
+
+
+
+
 
 
     }
