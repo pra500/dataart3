@@ -1,8 +1,6 @@
 package pac2;
 
-import org.checkerframework.framework.qual.NoQualifierParameter;
-
-public class Take {
+public class Take11 {
 
     public static void main(String[] args) {
 
@@ -19,7 +17,8 @@ public class Take {
 int r=reader.getRowCount("register");
         System.out.println(r);
 
-
+        //*******
+        //*******
 
 
 

@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class Logintrial  extends Take{
+public class Logintrial  extends Take11 {
 
 
     WebDriver driver;
