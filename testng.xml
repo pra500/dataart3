@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" parallel="classes"
+          name="C:/Users/pgupta/IdeaProjects/practice1/src/test/java/pac2/Logintrial.java">
+        <classes>
+            <class name="pac2.Logintrial">
+                <methods>
+                    <include name="logintoapp"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
